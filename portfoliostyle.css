@@ -215,7 +215,6 @@ header .navbar ul li a:active::before{
 .about-me .about-content .img{
     width: 100%;
     display: block;
-    transform: ;
 }
 .about-me .about-content .text{
     flex: 0 0 66.66%;
@@ -739,11 +738,11 @@ footer .social a{
     transition: all .5s ease;
     text-decoration: none;
 }
-.copyright{
+.copyright-us{
     background-color: #0c0c17;
     border-top: 1px solid #1d1d27;
 }
-.copyright p{
+.copyright-us h6{
     color: #838383;
     margin: 0;
     text-align: center;
